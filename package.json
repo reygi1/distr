@@ -20,6 +20,7 @@
     "@angular/platform-browser-dynamic": "~10.0.6",
     "@angular/router": "~10.0.6",
     "debug": "^4.1.1",
+    "gh-pages": "^3.1.0",
     "node": "^14.8.0",
     "rxjs": "~6.5.5",
     "tslib": "^2.0.0",
