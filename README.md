@@ -1,7 +1,7 @@
 # Distr Digital - BlockChain Implementation in Javascript With Front- End GUI
 > Blockchain implementation in Javascript with visual and graphical representation of the chain and creation of transactions.
 
-<img src="https://github.com/rey2424/sividend/" alt="gifr">
+<img src="https://github.com/reygj/distr/blob/master/src/assets/distrv.gif" alt="gifr">
 
 
 Official website: [distr.digital](https://distr.digital) <br>
