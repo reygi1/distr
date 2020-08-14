@@ -1,27 +1,25 @@
-# Distr
+# Distr Digital - BlockChain Implementation in Javascript With Front- End GUI
+> Blockchain implementation in Javascript with visual and graphical representation of the chain and creation of transactions.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.5.
+<img src="https://github.com/rey2424/sividend/" alt="gifr">
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Official website: [distr.digital](https://distr.digital) <br>
 
-## Code scaffolding
+## Functionalities
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- View all the blocks inside the blockchain
+- View all transactions inside each block
+- View wallet balance
+- Mining of blocks in real-time
+- Possibility to edit mining difficulty and mining reward
 
-## Build
+## Technology
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+- Front-end made in Angular
+- Blockchain implementation completely made with Javascript
+- Routing with Angular Router
+- Hashing with SHA256
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
