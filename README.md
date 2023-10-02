@@ -4,7 +4,6 @@
 <img src="https://github.com/reygj/distr/blob/master/src/assets/distrv.gif" alt="gifr">
 
 
-Official website: [distr.digital](https://distr.digital) <br>
 
 ## Functionalities
 
